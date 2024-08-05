@@ -8,7 +8,6 @@ function Footer() {
                 <p className="text-xs mt-1 text-zinc-400">&copy; 2024 All rights reserved</p>
             </footer>
         </div>
-
     )
 }
 
